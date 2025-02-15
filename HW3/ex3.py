@@ -1,9 +1,6 @@
 from collections import deque
 from math import inf
 
-# IDs as requested
-ids = ["208912675", "318159506"]
-
 # Rewards / penalties
 DESTROY_HORCRUX_REWARD = 2
 RESET_REWARD = -2
