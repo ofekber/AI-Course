@@ -4,7 +4,7 @@ import math
 import itertools
 from itertools import cycle
 
-ids = ["208912675", "318159506"]
+ids = ["1", "1"]
 
 
 class HarryPotterProblem(search.Problem):
