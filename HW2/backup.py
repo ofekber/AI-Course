@@ -1,4 +1,4 @@
-ids = ["208912675", "318159506"]
+
 
 class GringottsController:
     def __init__(self, map_shape, harry_loc, initial_observations):
